@@ -65,11 +65,11 @@ public class DemoApplication /*extends SpringBootServletInitializer*//*implement
 	@Value("${server.ip}")
 	String serverIp;
 
-	@Bean
-	CommandLineRunner values() {
-		return args -> log.info("server IP "+ serverIp);
-
-	}
+//	@Bean
+//	CommandLineRunner values() {
+//		return args -> log.info("server IP "+ serverIp);
+//
+//	}
 
 /*	@Override
 	public void run(String... strings) throws Exception {
