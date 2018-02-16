@@ -16,6 +16,6 @@ public class MyComponent {
             System.out.println("----- you are enable");
         }
         List<String> _args = args.getNonOptionArgs();
-        _args.forEach(option -> System.out.println("testtt"));
+        //_args.forEach(option -> System.out.println("testtt"));
     }
 }
