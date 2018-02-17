@@ -30,4 +30,6 @@ public class JournalController {
     //refresh commit
     // A commit form master
 
+    // B commit from master
+
 }
