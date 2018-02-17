@@ -15,6 +15,7 @@ public class MyComponent {
         if (enable) {
             System.out.println("----- you are enable");
         }
+        // C commit from master
         List<String> _args = args.getNonOptionArgs();
         //_args.forEach(option -> System.out.println("testtt"));
         // 1st comment from master
