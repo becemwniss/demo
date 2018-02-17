@@ -5,7 +5,7 @@ import org.springframework.boot.ApplicationArguments;
 import org.springframework.stereotype.Component;
 
 import java.util.List;
-
+// D commit from develop
 @Component
 public class MyComponent {
 
