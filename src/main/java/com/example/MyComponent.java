@@ -9,6 +9,7 @@ import java.util.List;
 @Component
 public class MyComponent {
 
+    // B commit (develop)
     @Autowired
     public MyComponent(ApplicationArguments args) {
         boolean enable = args.containsOption("enable");
