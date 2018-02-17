@@ -15,6 +15,8 @@ import java.util.List;
 public class JournalController {
     @Autowired
     JournalRepository repo;
+
+    // C commit from develop
 //    @RequestMapping("/")
 //    public String index(Model model){
 //        model.addAttribute("journal", repo.findAll());
