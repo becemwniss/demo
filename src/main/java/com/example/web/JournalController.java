@@ -28,5 +28,6 @@ public class JournalController {
 //    }
 
     //refresh commit
+    // A commit form master
 
 }
